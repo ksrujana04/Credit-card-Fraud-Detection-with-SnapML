@@ -27,3 +27,6 @@ Handling Class Imbalance: The dataset is highly imbalanced, with fraudulent tran
 Model Training: We train a Decision Tree Classifier using Snap ML, which offers optimized training routines with multi-threading support, resulting in faster model training compared to traditional scikit-learn implementations.
 
 Model Evaluation: The performance of the model is evaluated using the ROC-AUC score, which provides insights into the model's ability to distinguish between fraudulent and legitimate transactions.
+
+# Dataset
+The dataset used in this project is the Credit Card Fraud Detection dataset, which can be downloaded from Kaggle [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
