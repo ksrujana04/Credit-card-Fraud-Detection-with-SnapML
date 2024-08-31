@@ -30,3 +30,5 @@ Model Evaluation: The performance of the model is evaluated using the ROC-AUC sc
 
 # Dataset
 The dataset used in this project is the Credit Card Fraud Detection dataset, which can be downloaded from Kaggle [here](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
+
+![Project Screenshot](image.png)
